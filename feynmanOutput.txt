@@ -1,0 +1,252 @@
+1.          𝜐𝜇 + 𝑛 → 𝑝 + 𝜇−
+Charge (Q):  0 0 e -e Allowed
+Baryon (B):  0 1 1 0 Allowed
+Lepton (L):  1 0 0 1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+2.          𝜐̅𝑒 + 𝑝 → 𝑛 + 𝑒+
+Charge (Q):  0 e 0 e Allowed
+Baryon (B):  0 1 1 0 Allowed
+Lepton (L):  -1 0 0 -1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+3.          ̅̅Λ0 → 𝑝− + 𝜋+
+Charge (Q):  0 -e e Allowed
+Baryon (B):  -1 -1 0 Allowed
+Lepton (L):  0 0 0 Allowed
+Strange (S): 1 0 0 Not Allowed
+Not Allowed
+---------------------------------
+4.          𝑝 → 𝑛 + 𝑒+
+Charge (Q):  e 0 e Allowed
+Baryon (B):  1 1 0 Allowed
+Lepton (L):  0 0 -1 Not Allowed
+Strange (S): 0 0 0 Allowed
+Not Allowed
+---------------------------------
+5.          𝑛 → 𝑝 + 𝑒−
+Charge (Q):  0 e -e Allowed
+Baryon (B):  1 1 0 Allowed
+Lepton (L):  0 0 1 Not Allowed
+Strange (S): 0 0 0 Allowed
+Not Allowed
+---------------------------------
+6.          𝑛̅ + 𝑝 → 𝑛 + 𝑒+
+Charge (Q):  0 e 0 e Allowed
+Baryon (B):  -1 1 1 0 Not Allowed
+Lepton (L):  0 0 0 -1 Not Allowed
+Strange (S): 0 0 0 0 Allowed
+Not Allowed
+---------------------------------
+7.          𝑛̅ → 𝑝− + 𝜐𝑒 + 𝑒+
+Charge (Q):  0 -e 0 e Allowed
+Baryon (B):  -1 -1 0 0 Allowed
+Lepton (L):  0 0 1 -1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+8.          𝑛̅ → 𝑝 + 𝜐𝑒− + 𝑒−
+Charge (Q):  0 e 0 -e Allowed
+Baryon (B):  -1 1 0 0 Not Allowed
+Lepton (L):  0 0 -1 1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Not Allowed
+---------------------------------
+9.          𝑛 → 𝑝 + 𝜐𝑒− + 𝑒−
+Charge (Q):  0 e 0 -e Allowed
+Baryon (B):  1 1 0 0 Allowed
+Lepton (L):  0 0 -1 1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+10.          𝛾 → 𝑒+ + 𝑒−
+Charge (Q):  0 e -e Allowed
+Baryon (B):  0 0 0 Allowed
+Lepton (L):  0 -1 1 Allowed
+Strange (S): 0 0 0 Allowed
+Allowed
+---------------------------------
+11.          𝜋0 → 𝑒+ + 𝑒−
+Charge (Q):  0 e -e Allowed
+Baryon (B):  0 0 0 Allowed
+Lepton (L):  0 -1 1 Allowed
+Strange (S): 0 0 0 Allowed
+Allowed
+---------------------------------
+12.          𝜋0 → 𝛾 + 𝛾
+Charge (Q):  0 0 0 Allowed
+Baryon (B):  0 0 0 Allowed
+Lepton (L):  0 0 0 Allowed
+Strange (S): 0 0 0 Allowed
+Allowed
+---------------------------------
+13.          𝑒+ + 𝑒− → 𝛾 + 𝛾
+Charge (Q):  e -e 0 0 Allowed
+Baryon (B):  0 0 0 0 Allowed
+Lepton (L):  -1 1 0 0 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+14.          𝜋− → 𝜇− + 𝜐𝜇−
+Charge (Q):  -e -e 0 Allowed
+Baryon (B):  0 0 0 Allowed
+Lepton (L):  0 1 -1 Allowed
+Strange (S): 0 0 0 Allowed
+Allowed
+---------------------------------
+15.          𝜋+ → 𝜇+ + 𝑛
+Charge (Q):  e e 0 Allowed
+Baryon (B):  0 0 1 Not Allowed
+Lepton (L):  0 -1 0 Not Allowed
+Strange (S): 0 0 0 Allowed
+Not Allowed
+---------------------------------
+16.          𝑒+ → 𝜐𝑒− + 𝜐𝜇 + 𝜇+
+Charge (Q):  e 0 0 e Allowed
+Baryon (B):  0 0 0 0 Allowed
+Lepton (L):  -1 -1 1 -1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+17.          𝑛 → 𝑝 + 𝜐𝑒− + 𝑒−
+Charge (Q):  0 e 0 -e Allowed
+Baryon (B):  1 1 0 0 Allowed
+Lepton (L):  0 0 -1 1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+18.          𝑛̅ + 𝑝 → 𝜐𝑒 + 𝑒+
+Charge (Q):  0 e 0 e Allowed
+Baryon (B):  -1 1 0 0 Allowed
+Lepton (L):  0 0 1 -1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+19.          Δ++ → 𝑝 + 𝜋+
+Charge (Q):  2e e e Allowed
+Baryon (B):  1 1 0 Allowed
+Lepton (L):  0 0 0 Allowed
+Strange (S): 0 0 0 Allowed
+Allowed
+---------------------------------
+20.          𝑝 → 𝑛 + 𝑒+ + 𝜐𝑒
+Charge (Q):  e 0 e 0 Allowed
+Baryon (B):  1 1 0 0 Allowed
+Lepton (L):  0 0 -1 1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+21.          𝜋− → 𝜇− + 𝜐𝑒−
+Charge (Q):  -e -e 0 Allowed
+Baryon (B):  0 0 0 Allowed
+Lepton (L):  0 1 -1 Allowed
+Strange (S): 0 0 0 Allowed
+Allowed
+---------------------------------
+22.          𝜇− + 𝜐𝜇− → 𝜐𝑒− + 𝑒−
+Charge (Q):  -e 0 0 -e Allowed
+Baryon (B):  0 0 0 0 Allowed
+Lepton (L):  1 -1 -1 1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+23.          𝛾 + 𝑒− → 𝑒− + 𝛾
+Charge (Q):  0 -e -e 0 Allowed
+Baryon (B):  0 0 0 0 Allowed
+Lepton (L):  0 1 1 0 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+24.          𝛾 + 𝑒− → 𝑒−
+Charge (Q):  0 -e -e Allowed
+Baryon (B):  0 0 0 Allowed
+Lepton (L):  0 1 1 Allowed
+Strange (S): 0 0 0 Allowed
+Allowed
+---------------------------------
+25.          𝑝 + 𝑛 → 𝑒+ + 𝜐𝑒
+Charge (Q):  e 0 e 0 Allowed
+Baryon (B):  1 1 0 0 Not Allowed
+Lepton (L):  0 0 -1 1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Not Allowed
+---------------------------------
+26.          𝐾+ → 𝜐𝜇 + 𝜇+
+Charge (Q):  e 0 e Allowed
+Baryon (B):  0 0 0 Allowed
+Lepton (L):  0 1 -1 Allowed
+Strange (S): 1 0 0 Not Allowed
+Not Allowed
+---------------------------------
+27.          𝑝 → 𝑒+ + 𝜐𝑒
+Charge (Q):  e e 0 Allowed
+Baryon (B):  1 0 0 Not Allowed
+Lepton (L):  0 -1 1 Allowed
+Strange (S): 0 0 0 Allowed
+Not Allowed
+---------------------------------
+28.          𝛾 → 𝑒+ + 𝜇−
+Charge (Q):  0 e -e Allowed
+Baryon (B):  0 0 0 Allowed
+Lepton (L):  0 -1 1 Allowed
+Strange (S): 0 0 0 Allowed
+Allowed
+---------------------------------
+29.          𝑒+ + 𝑒− → 𝜇+ + 𝜇−
+Charge (Q):  e -e e -e Allowed
+Baryon (B):  0 0 0 0 Allowed
+Lepton (L):  -1 1 -1 1 Allowed
+Strange (S): 0 0 0 0 Allowed
+Allowed
+---------------------------------
+30.          𝛾 → 𝜇+ + 𝑒+
+Charge (Q):  0 e e Not Allowed
+Baryon (B):  0 0 0 Allowed
+Lepton (L):  0 -1 -1 Not Allowed
+Strange (S): 0 0 0 Allowed
+Not Allowed
+---------------------------------
+31.          𝑝 + 𝑒+ → 𝜋+ + 𝜐𝑒 + 𝑛
+Charge (Q):  e e e 0 0 Not Allowed
+Baryon (B):  1 0 0 0 1 Allowed
+Lepton (L):  0 -1 0 1 0 Not Allowed
+Strange (S): 0 0 0 0 0 Allowed
+Not Allowed
+---------------------------------
+32.          𝑝 → 𝜋+ + 𝜋−
+Charge (Q):  e e -e Not Allowed
+Baryon (B):  1 0 0 Not Allowed
+Lepton (L):  0 0 0 Allowed
+Strange (S): 0 0 0 Allowed
+Not Allowed
+---------------------------------
+33.          𝑝 → 𝑛 + 𝜋+ + 𝜐𝑒
+Charge (Q):  e 0 e 0 Allowed
+Baryon (B):  1 1 0 0 Allowed
+Lepton (L):  0 0 0 1 Not Allowed
+Strange (S): 0 0 0 0 Allowed
+Not Allowed
+---------------------------------
+34.          𝛬0 → 𝑒− + 𝑝 + 𝜐𝑒−
+Charge (Q):  0 -e e 0 Allowed
+Baryon (B):  1 0 1 0 Allowed
+Lepton (L):  0 1 0 -1 Allowed
+Strange (S): -1 0 0 0 Not Allowed
+Not Allowed
+---------------------------------
+35.          Ω− → 𝜐𝜇− + 𝜇− + 𝑛
+Charge (Q):  -e 0 -e 0 Allowed
+Baryon (B):  1 0 0 1 Allowed
+Lepton (L):  0 -1 1 0 Allowed
+Strange (S): -3 0 0 0 Not Allowed
+Not Allowed
+---------------------------------
+36.          𝜋+ → 𝜇+ + 𝜐𝜇
+Charge (Q):  e e 0 Allowed
+Baryon (B):  0 0 0 Allowed
+Lepton (L):  0 -1 1 Allowed
+Strange (S): 0 0 0 Allowed
+Allowed
+---------------------------------

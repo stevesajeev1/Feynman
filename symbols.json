@@ -1,0 +1,194 @@
+[
+    {
+        "symbol": "𝜐𝜇",
+        "charge": 0,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 1
+    },
+    {
+        "symbol": "𝑛",
+        "charge": 0,
+        "baryon": 1,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝑝",
+        "charge": 50,
+        "baryon": 1,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝜇−",
+        "charge": -50,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 1
+    },
+    {
+        "symbol": "𝜐̅𝑒",
+        "charge": 0,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": -1,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝑒+",
+        "charge": 50,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": -1,
+        "mlepton": 0
+    },
+    {
+        "symbol": "̅̅Λ0",
+        "charge": 0,
+        "baryon": -1,
+        "strange": 1,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝜋+",
+        "charge": 50,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": "|",
+        "mlepton": "|"
+    },
+    {
+        "symbol": "𝑒−",
+        "charge": -50,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": 1,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝑛̅",
+        "charge": 0,
+        "baryon": -1,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝜐𝑒",
+        "charge": 0,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": 1,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝛾",
+        "charge": 0,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝜋0",
+        "charge": 0,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝜋−",
+        "charge": -50,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝜇+",
+        "charge": 50,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": -1
+    },
+    {
+        "symbol": "Δ++",
+        "charge": 100,
+        "baryon": 1,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝐾+",
+        "charge": 50,
+        "baryon": 0,
+        "strange": 1,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝛬0",
+        "charge": 0,
+        "baryon": 1,
+        "strange": -1,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "Ω−",
+        "charge": -50,
+        "baryon": 1,
+        "strange": -3,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝑝−",
+        "charge": -50,
+        "baryon": -1,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝜐𝑒−",
+        "charge": 0,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": -1,
+        "mlepton": 0
+    },
+    {
+        "symbol": "𝜐𝜇−",
+        "charge": 0,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": -1
+    },
+    {
+        "symbol": "𝜋0",
+        "charge": 0,
+        "baryon": 0,
+        "strange": 0,
+        "elepton": 0,
+        "mlepton": 0
+    },
+    {
+        "symbol": "Σ−",
+        "charge": -1,
+        "baryon": 1,
+        "strange": -1,
+        "elepton": 0,
+        "mlepton": 0
+    }
+]
